@@ -12,10 +12,14 @@ Are there any regional variations in bike sales?
 # Sales Dashboard - Analysis
 This dashboard provides a comprehensive overview of bike sales data, including:
 
-### Customer Demographics: Analyzes customer age brackets, marital status, education levels, and gender to identify target demographics.
-### Purchase Behavior: Examines factors influencing purchase decisions, such as average income, purchase by average income, and purchase count.
-### Regional Analysis: Compares bike sales across different regions (Europe, North America, Pacific).
-### Commute Distance Analysis: Evaluates the impact of commute distance on bike purchases.
+### Customer Demographics: 
+Analyzes customer age brackets, marital status, education levels, and gender to identify target demographics.
+### Purchase Behavior: 
+Examines factors influencing purchase decisions, such as average income, purchase by average income, and purchase count.
+### Regional Analysis: 
+Compares bike sales across different regions (Europe, North America, Pacific).
+### Commute Distance Analysis: 
+Evaluates the impact of commute distance on bike purchases.
 
 # Overall Performance
 
