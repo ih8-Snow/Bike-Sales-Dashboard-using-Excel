@@ -1,6 +1,6 @@
 # Bike-Sales-Dashboard
 
-## _Dasboard = checkout Excel file in readme section_
+## _Dasboard = checkout Excel file in above section_
 
 # Problem Statement
 This dashboard aims to analyze bike sales data to uncover key trends, customer preferences, and identify areas for improvement.
